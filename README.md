@@ -1,2 +1,2 @@
 # Programming-Basics-
-Programming Basics 27.05.17 in Burgas, Bulgaria
+Programming Basics May 2017 

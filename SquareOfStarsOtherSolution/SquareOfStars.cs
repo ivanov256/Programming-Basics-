@@ -18,7 +18,7 @@ namespace SquareofStars
                 StringBuilder strMiddle = new StringBuilder(new string(' ', a - 2));
                 Console.Write("*");
                 Console.Write(strMiddle.ToString());
-                Console.WriteLine("*"); // To Ask
+                Console.WriteLine("*"); 
             }
             StringBuilder strEnd = new StringBuilder(new string('*', a));
 
